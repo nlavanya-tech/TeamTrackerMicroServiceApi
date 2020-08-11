@@ -1,0 +1,16 @@
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\appsettings.json
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\UsersMicroservice.deps.json
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\UsersMicroservice.runtimeconfig.json
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\UsersMicroservice.runtimeconfig.dev.json
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\UsersMicroservice.dll
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\bin\Debug\netcoreapp2.2\UsersMicroservice.pdb
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.csprojAssemblyReference.cache
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.RazorAssemblyInfo.cache
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.RazorAssemblyInfo.cs
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.AssemblyInfoInputs.cache
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.AssemblyInfo.cs
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.RazorTargetAssemblyInfo.cache
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.dll
+I:\IIHT\TeamTracker\Jr_FSE\project\TeamTrackerMicroServiceApi\UsersMicroservice\obj\Debug\netcoreapp2.2\UsersMicroservice.pdb

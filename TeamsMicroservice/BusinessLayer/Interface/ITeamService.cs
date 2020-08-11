@@ -8,9 +8,9 @@ namespace TeamsMicroservice.BusinessLayer.Interface
 {
     public interface ITeamService
     {
-        public Task<IEnumerable<Teams>> TeamReadAsync();
-        public Task<Teams> TeamCreateAsync(Teams teams);
-        public Task<Teams> TeamUpdateAsync(Teams teams);
-        public Task<bool> TeamDeleteAsync(string teamname);
+        Task<IEnumerable<Teams>> TeamReadAsync();
+        Task<Teams> TeamCreateAsync(Teams teams);
+        Task<Teams> TeamUpdateAsync(Teams teams);
+        Task<bool> TeamDeleteAsync(string teamname);
     }
 }
